@@ -1,5 +1,5 @@
 export default{
-    name: "my-boton",
+    name: "my-style",
     template: /*html*/`
     `,
     data(){
